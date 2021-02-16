@@ -1,6 +1,6 @@
 ---
-**name: "Account Request"
-**about: if you want a hacked account click here
+name: "Account Request"
+about: if you want a hacked account click here
 
 ---
 
