@@ -1,9 +1,6 @@
 ---
-name: 'Account Request '
-about: if you want a hacked account click here
-title: ''
-labels: ''
-assignees: ''
+**name: "Account Request"
+**about: if you want a hacked account click here
 
 ---
 
