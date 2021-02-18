@@ -5,7 +5,7 @@ hacking prodigy math accounts if you can't
 
 Currently, manually hacking Prodigy Math Game on mobile devices is not possible to do manually, which is why I have created this station. All hacked accounts are made using hacks created by ProdigyMathGameHacking.
 
-An order of any amounts of accounts.
+An order of any amounts of accounts are FREE.
 The ProdigyMathGameHacking Code of Conduct does apply.
 
 Our motiviation is the same as ProdigyMathGameHacking:
