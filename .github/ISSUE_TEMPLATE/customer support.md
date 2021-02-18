@@ -1,6 +1,6 @@
 ---
 name: customer support Application
-about: Looking for to help me with the customer support side of thigns. 
+about: Looking for to help me with the customer support side of things. 
 
 ---
 
