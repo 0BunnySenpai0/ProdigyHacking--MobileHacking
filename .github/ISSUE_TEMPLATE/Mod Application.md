@@ -1,6 +1,8 @@
 ---
-name:Mod Application
-about:need people who want to help me hack accounts/answer questions 
+name: Mod Application
+about: Looking for mods to help make accounts/answer questions.
+title: "Mod Application"
+labels:important 
 
 ---
 
