@@ -1,8 +1,6 @@
 ---
 name: Mod Application
-about: Looking for mods to help make accounts/answer questions.
-title: "Mod Application"
-labels:important 
+about: Looking for mods to help make accounts/answer questions. 
 
 ---
 
