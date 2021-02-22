@@ -1,0 +1,2 @@
+- name: Setup Ruby, JRuby and TruffleRuby
+  uses: ruby/setup-ruby@v1.64.1
