@@ -18,4 +18,5 @@ All of our hacks are open source, and free. No paywalls, no ads, and no Patreon.
 
 If you have any questions, email calebthehufflepuff@gmail.com - if you'd like to make an order, go to this page, https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/issues/new/choose, and choose "Account Request" as the template.
 Credit Goes to @NameIsA for the original idea
-[url=https://forms.gle/Bb8ziKoxgBoqZJyD9]Form For requesting accounts [/url]
+https://forms.gle/Bb8ziKoxgBoqZJyD9 Form For requesting accounts
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeoQa9FqcvsU_6fmpnnFPL_2dtS0JN2IInkBprmqHyJq_2euw/viewform?embedded=true" width="640" height="705" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
