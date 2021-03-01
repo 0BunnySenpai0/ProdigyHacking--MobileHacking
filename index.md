@@ -35,8 +35,8 @@
             <hr />
 
             Currently, manually hacking Prodigy Math Game on mobile devices is not possible to do manually, which is why I have created this station. All hacked accounts are made using hacks created by
-            <a href="http://github.com/Prodigy-Hacking/ProdigyMathGameHacking/">ProdigyMathGameHacking</a>. <b>An order of a single account is free.</b> All additional orders after that cost $0.05 and require payment in cryptocurrency or ROBUX
-            (you can use group payouts). Note that if you need your account to be FIXED, that is completely free. The ProdigyMathGameHacking Code of Conduct does apply. My motiviation is the same as ProdigyMathGameHacking:
+            <a href="http://github.com/Prodigy-Hacking/ProdigyMathGameHacking/">ProdigyMathGameHacking</a>. <b>An order of aany amount of accounts are free.</b>
+          .  The ProdigyMathGameHacking Code of Conduct does apply. My motiviation is the same as ProdigyMathGameHacking:
             <blockquote style="border-left: 5px solid #ddd; padding-left: 10px;">
                 We're not trying to break the game because we're evil. We just wanted to help Prodigy become more secure, but they've ignored our emails and our requests to talk.
                 <br/>
@@ -45,11 +45,12 @@
                 All of our hacks are open source, and free. No paywalls, no ads, and no Patreon.
             </blockquote>
 
-            Payments are only required to compensate for the time taken to create your accounts and are not neccesary if you'd just like one account. If you have any questions, email
-            <a href="mailto:nameisa@prodigymathwiki.com">nameisa@prodigymathwiki.com</a> - if you'd like to make an order, please click the button below.
+       
+                   If you have any questions, email
+            <a href="mailto:calebthehufflepuff@gmail.com">calebthehufflepuff@gmail.com</a> - if you'd like to make an order, please click the button below.
             <br/><br/>
-            If you'd like to learn more about this project, see <a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/discussions/487">here</a>.
+            If you'd like to learn more about this project, see <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/discussions">here</a>.
         </div>
-        <a href="https://github.com/NameIsA/MobileDevice-ProdigyHacking/issues/new?assignees=&labels=request&template=order.md&title=Account+request" class="blockButton">Request an account</a>
+        <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/issues/new?assignees=&labels=&template=account-request-.md" class="blockButton">Request an account</a>
     </body>
 </html>
