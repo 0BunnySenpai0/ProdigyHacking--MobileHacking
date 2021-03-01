@@ -32,7 +32,7 @@
             <h1 align="center">Hacking Prodigy Math Game on mobile devices</h1>
 
 <hr />
-## goal of ProdigyHacking--MobileHacking
+goal of ProdigyHacking--MobileHacking
 
 the goal of Me and my team hack accounts for players of Prodigy Math Game that only have access to a mobile device/people who can't hack themselves.
 
