@@ -33,10 +33,7 @@
 <hr />
 goal of ProdigyHacking--MobileHacking
 
-the goal of Me and my team hack accounts for players of Prodigy Math Game that only have access to a mobile device/people who can't hack themselves.
-
 <hr />
-
  Currently, manually hacking Prodigy Math Game on mobile devices is not possible to do manually, which is why I have created this station. All hacked accounts are made using hacks created by
             <a href="http://github.com/Prodigy-Hacking/ProdigyMathGameHacking/">ProdigyMathGameHacking</a>. <b>An order of any amount of accounts are free</b>
           .  The ProdigyMathGameHacking Code of Conduct does apply. My motiviation is the same as ProdigyMathGameHacking:
