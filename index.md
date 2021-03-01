@@ -5,15 +5,14 @@
         <title>MobileDevice-ProdigyHacking</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="robots" content="index,follow" />
-
-        <style>
+ <style>
             body {
                 font-family: sans-serif;
                 padding: 0;
                 margin: 0;
             }
 
-            .blockButton {
+ .blockButton {
                 display: block;
                 width: 100%;
                 border: none;
@@ -32,9 +31,9 @@
         <div id="about">
             <h1 align="center">Hacking Prodigy Math Game on mobile devices</h1>
 
-            <hr />
+<hr />
 
-            Currently, manually hacking Prodigy Math Game on mobile devices is not possible to do manually, which is why I have created this station. All hacked accounts are made using hacks created by
+ Currently, manually hacking Prodigy Math Game on mobile devices is not possible to do manually, which is why I have created this station. All hacked accounts are made using hacks created by
             <a href="http://github.com/Prodigy-Hacking/ProdigyMathGameHacking/">ProdigyMathGameHacking</a>. <b>An order of aany amount of accounts are free.</b>
           .  The ProdigyMathGameHacking Code of Conduct does apply. My motiviation is the same as ProdigyMathGameHacking:
             <blockquote style="border-left: 5px solid #ddd; padding-left: 10px;">
@@ -46,7 +45,7 @@
             </blockquote>
 
        
-                   If you have any questions, email
+  If you have any questions, email
             <a href="mailto:calebthehufflepuff@gmail.com">calebthehufflepuff@gmail.com</a> - if you'd like to make an order, please click the button below.
             <br/><br/>
             If you'd like to learn more about this project, see <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/discussions">here</a>.
