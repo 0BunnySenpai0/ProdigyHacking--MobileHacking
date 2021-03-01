@@ -27,8 +27,7 @@
         </style>
     </head>
     <body>
-        <div style="text-align: center;"><iframe data-aa="1561799" src="//ad.a-ads.com/1561799?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe></div>
-        <div id="about">
+      
             <h1 align="center">Hacking Prodigy Math Game on mobile devices</h1>
 
 <hr />
