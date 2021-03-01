@@ -32,9 +32,14 @@
             <h1 align="center">Hacking Prodigy Math Game on mobile devices</h1>
 
 <hr />
+### goal of ProdigyHacking--MobileHacking
+
+the goal of Me and my team hack accounts for players of Prodigy Math Game that only have access to a mobile device/people who can't hack themselves.
+
+<hr />
 
  Currently, manually hacking Prodigy Math Game on mobile devices is not possible to do manually, which is why I have created this station. All hacked accounts are made using hacks created by
-            <a href="http://github.com/Prodigy-Hacking/ProdigyMathGameHacking/">ProdigyMathGameHacking</a>. <b>An order of aany amount of accounts are free.</b>
+            <a href="http://github.com/Prodigy-Hacking/ProdigyMathGameHacking/">ProdigyMathGameHacking</a>. <b>An order of any amount of accounts are free</b>
           .  The ProdigyMathGameHacking Code of Conduct does apply. My motiviation is the same as ProdigyMathGameHacking:
             <blockquote style="border-left: 5px solid #ddd; padding-left: 10px;">
                 We're not trying to break the game because we're evil. We just wanted to help Prodigy become more secure, but they've ignored our emails and our requests to talk.
@@ -44,12 +49,14 @@
                 All of our hacks are open source, and free. No paywalls, no ads, and no Patreon.
             </blockquote>
 
-       
+
+
   If you have any questions, email
             <a href="mailto:calebthehufflepuff@gmail.com">calebthehufflepuff@gmail.com</a> - if you'd like to make an order, please click the button below.
             <br/><br/>
             If you'd like to learn more about this project, see <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/discussions">here</a>.
         </div>
         <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/issues/new?assignees=&labels=&template=account-request-.md" class="blockButton">Request an account</a>
-    </body>
+    
+   </body>
 </html>
