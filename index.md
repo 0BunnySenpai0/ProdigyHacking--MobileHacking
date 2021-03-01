@@ -7,7 +7,7 @@
         <meta name="robots" content="index,follow" />
  <style>
             body {
-                font-family: sans-serif;
+                font-family: Inconsolata;
                 padding: 0;
                 margin: 0;
             }
