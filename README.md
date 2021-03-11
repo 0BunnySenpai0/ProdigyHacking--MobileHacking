@@ -47,7 +47,7 @@
   If you have any questions, email
             <a href="mailto:calebthehufflepuff@gmail.com">calebthehufflepuff@gmail.com</a> - if you'd like to make an order, please click the button below.
             <br/><br/>
-            If you'd like to learn more about this project, see <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/discussions">here</a>.
+            If you'd like to learn more about this project, see <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/discussions/23">here</a>.
         </div>
         <a href="https://github.com/CRobbins0867/ProdigyHacking--MobileHacking/issues/new?assignees=&labels=&template=account-request-.md"
         class="blockButton">Request an account</a>
