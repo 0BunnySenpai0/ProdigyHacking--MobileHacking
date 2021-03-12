@@ -11,6 +11,7 @@
                 <br/>
                 All of our hacks are open source, and free. No paywalls, no ads, and no Patreon.
             </blockquote>
+
 </details>
 
 <summary>How to request a account!</summary>
