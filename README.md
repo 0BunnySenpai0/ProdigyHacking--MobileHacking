@@ -14,6 +14,8 @@
 
 </details>
 
+<details>
+
 <summary>How to request a account!</summary>
 
 If you have any questions, email
@@ -27,6 +29,10 @@ If you have any questions, email
     
    </body>
 </html>
+
+</details>
+
+
 
 
                            Credit Goes to @NameIsA for the original idea And @ArcerionDev for supplying the hacks
