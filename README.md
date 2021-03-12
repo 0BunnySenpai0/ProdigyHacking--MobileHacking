@@ -28,8 +28,5 @@ If you have any questions, email
    </body>
 </html>
 
-</details>
-
-
 
                            Credit Goes to @NameIsA for the original idea And @ArcerionDev for supplying the hacks
