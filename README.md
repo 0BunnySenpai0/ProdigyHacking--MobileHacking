@@ -1,34 +1,4 @@
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8" />
-        <title>MobileDevice-ProdigyHacking</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="robots" content="index,follow" />
- <style>
-            body {
-                font-family: Space Mono;
-                padding: 0;
-                margin: 0;
-            }
-
- .blockButton {
-                display: block;
-                width: 100%;
-                border: none;
-                background-color: #4caf50;
-                padding: 14px 28px;
-                font-size: 16px;
-                cursor: pointer;
-                text-align: center;
-                text-decoration: none;
-                color: white;
-            }
-        </style>
-    </head>
-    <body>
-               
 
 <hr />
  Currently, manually hacking Prodigy Math Game on mobile devices is not possible to do manually, which is why I have created this station. All hacked accounts are made using hacks created by
