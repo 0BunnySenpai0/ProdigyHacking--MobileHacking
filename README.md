@@ -61,4 +61,4 @@ NONE
 
 
 
-                           Credit Goes to @NameIsA for the original idea And @ArcerionDev for supplying the hacks
+          Credit Goes to @NameIsA for the original idea And @ArcerionDev for supplying the hacks
