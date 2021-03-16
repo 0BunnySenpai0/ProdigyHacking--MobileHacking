@@ -40,7 +40,7 @@ If you have any questions, email
 - [CRobbins0867](https://github.com/CRobbins0867)
 - [hostedposted](https://github.com/hostedposted)
 - [irhrhd](https://github.com/irhrhd)
-- [PrinceHughJass](https://github.com/PrinceHughJass)
+
 
 
 
@@ -49,11 +49,7 @@ If you have any questions, email
 
 
 ## Retired Collaborators
-NONE
-- []()
-- []()
-- []()
-- []()
+- [PrinceHughJass](https://github.com/PrinceHughJass)
 
 
 </details>
@@ -61,4 +57,5 @@ NONE
 
 
 
-          Credit Goes to @NameIsA for the original idea And @ArcerionDev for supplying the hacks
+    Credit Goes to @NameIsA for the original idea And @ArcerionDev for supplying the hacks
+ 
