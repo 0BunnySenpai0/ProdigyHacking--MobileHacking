@@ -40,6 +40,8 @@ If you have any questions, email
 - [CRobbins0867](https://github.com/CRobbins0867)
 - [hostedposted](https://github.com/hostedposted)
 - [irhrhd](https://github.com/irhrhd)
+- [PixelWolf1](https://github.com/PixelWolf1)
+- [Prodigy-hack-yt](https://github.com/Prodigy-hack-yt)
 
 
 
