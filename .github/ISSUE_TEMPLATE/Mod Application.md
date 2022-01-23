@@ -4,8 +4,22 @@ about: Looking for mods to help make accounts/answer questions.
 
 ---
 
-Why should I choose you over other candidates?:
+(put in an "X" in the parentheses for your answer)
 
-What makes you more suitable over other candidates?:
+1. Do you want to be a mod?
 
-Give me an email that I can use to contact me-this is needed so I can review your application. (my email is calebthehufflepuff@gmail.com):
+yes ()
+
+No ()
+
+2. do you have past experience with being a mod for other things (github,websites etc.) 
+
+yes ()
+
+No ()
+
+3. What makes you more suitable over other candidates?
+
+delete this and type here
+
+
