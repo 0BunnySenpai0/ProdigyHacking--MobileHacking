@@ -37,13 +37,8 @@ If you have any questions, email
  
  ## Current Collaborators
 
-- [CRobbins0867](https://github.com/CRobbins0867)
-- [hostedposted](https://github.com/hostedposted)
-- [irhrhd](https://github.com/irhrhd)
-- [PixelWolf1](https://github.com/PixelWolf1)
-- [Prodigy-hack-yt](https://github.com/Prodigy-hack-yt)
-
-
+- [0BunnySenpai0](https://github.com/0BunnySenpai0)
+  
 
 
 
@@ -52,7 +47,11 @@ If you have any questions, email
 
 ## Retired Collaborators
 - [PrinceHughJass](https://github.com/PrinceHughJass)
-
+- [hostedposted](https://github.com/hostedposted)
+- [irhrhd](https://github.com/irhrhd)
+- [PixelWolf1](https://github.com/PixelWolf1)
+- [Prodigy-hack-yt](https://github.com/Prodigy-hack-yt)
+  
 
 </details>
 
